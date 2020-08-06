@@ -1,0 +1,27 @@
+.bg-col{
+
+background-color: rgb(218,202,177);
+
+}
+
+#heading{
+    
+    font-size: 50px;
+    text-align :center;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+#heading1{
+    margin-top: 20px;
+    border-bottom: 5px solid black;
+
+
+
+}
+#date{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
